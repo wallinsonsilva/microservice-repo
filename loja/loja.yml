@@ -9,6 +9,6 @@ spring:
         dialect: org.hibernate.dialect.MariaDB53Dialect
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    password: fornecedor
-    username: fornecedor
+    password: loja
+    username: loja
     url: jdbc:mysql://localhost:3307/loja    
